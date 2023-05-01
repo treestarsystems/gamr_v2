@@ -32,4 +32,4 @@
 
 #### Defined in
 
-app.service.ts:5
+[app.service.ts:5](https://github.com/treestarsystems/gamr_v2/blob/3aceaa6/src/app.service.ts#L5)

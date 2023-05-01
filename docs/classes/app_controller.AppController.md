@@ -32,7 +32,7 @@
 
 #### Defined in
 
-app.controller.ts:6
+[app.controller.ts:6](https://github.com/treestarsystems/gamr_v2/blob/3aceaa6/src/app.controller.ts#L6)
 
 ## Properties
 
@@ -42,7 +42,7 @@ app.controller.ts:6
 
 #### Defined in
 
-app.controller.ts:6
+[app.controller.ts:6](https://github.com/treestarsystems/gamr_v2/blob/3aceaa6/src/app.controller.ts#L6)
 
 ## Methods
 
@@ -56,4 +56,4 @@ app.controller.ts:6
 
 #### Defined in
 
-app.controller.ts:8
+[app.controller.ts:8](https://github.com/treestarsystems/gamr_v2/blob/3aceaa6/src/app.controller.ts#L8)
