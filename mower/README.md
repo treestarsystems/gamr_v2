@@ -1,6 +1,6 @@
 ## Description
 
-[Initial setup instructions](./initial-setup.md)
+[Initial setup instructions](../setup/initial-setup.md)
 
 ## Installation
 
