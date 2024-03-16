@@ -2,7 +2,8 @@ gamr_v2 / [Modules](modules.md)
 
 ## Description
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+- [Initial setup instructions](../setup/mower-initial-setup.md)
+- [Initial connection instructions](../setup/mower-initial-connections.md)
 
 ## Installation
 
@@ -40,11 +41,11 @@ $ npm run test:cov
 
 ```bash
 # generate documentation
-$ npm run generate-readme:src
+$ npm run docs
 ```
 
 ## Support / Stay in touch
 
-- Author - Michael "Young Grizzly" (<info@treestarsystems.com>)
+- Author - [Michael "Young Grizzly"](info@treestarsystems.com)
 - Website - [TreeStarSystems](https://treestarsystems.com/)
 - Confluence - [TSS Cuts](https://treestarsystems.atlassian.net/wiki/spaces/TC/overview)

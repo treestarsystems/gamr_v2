@@ -39,7 +39,7 @@ $ npm run test:cov
 
 ```bash
 # generate documentation
-$ npm run generate-readme:src
+$ npm run docs
 ```
 
 ## Support / Stay in touch
