@@ -1,6 +1,7 @@
 ## Description
 
-[Initial setup instructions](../setup/initial-setup.md)
+- [Initial setup instructions](../setup/mower-initial-setup.md)
+- [Initial connection instructions](../setup/mower-initial-connections.md)
 
 ## Installation
 
