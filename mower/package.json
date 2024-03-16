@@ -1,8 +1,8 @@
 {
   "name": "gamr_v2",
   "version": "0.0.1",
-  "description": "",
-  "author": "",
+  "description": "Autonomous Mowing Robot",
+  "author": "Michael Bogle",
   "private": true,
   "license": "UNLICENSED",
   "scripts": {
