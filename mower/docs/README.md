@@ -45,6 +45,6 @@ $ npm run generate-readme:src
 
 ## Support / Stay in touch
 
-- Author - [Michael "Young Grizzly"](info@treestarsystems.com)
+- Author - Michael "Young Grizzly" (<info@treestarsystems.com>)
 - Website - [TreeStarSystems](https://treestarsystems.com/)
 - Confluence - [TSS Cuts](https://treestarsystems.atlassian.net/wiki/spaces/TC/overview)
