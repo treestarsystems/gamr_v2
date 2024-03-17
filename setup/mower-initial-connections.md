@@ -15,5 +15,5 @@ Currently this document assumes you have the following major hardware.
 # Arduino to Fan
 # Arduino to Temperature Sensor
 # Arduino to LCD
-## LCD 1 (20x3 (large screen)):
+## LCD 1 (20x4 (large screen)):
 ## LCD 1 (16x2 (small screen)):
